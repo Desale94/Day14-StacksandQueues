@@ -32,6 +32,8 @@ public class MyStack {
         myStack.push(myThirdNode);
         myStack.peak();
         myStack.printStack();
+        myStack.pop();
+        myStack.printStack();
 
     }
 }
