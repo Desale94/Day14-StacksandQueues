@@ -31,6 +31,8 @@ package com.bridgelabz.collection;
             myQueue.enque(myThirdNode);
             myQueue.peak();
             myQueue.printQueue();
+            myQueue.deQueue();
+            myQueue.printQueue();
         }
     }
 
